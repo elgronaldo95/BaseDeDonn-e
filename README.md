@@ -1,2 +1,2 @@
-# BaseDeDonn-e
+# BaseDeDonne
 quelques requêtes SQL
